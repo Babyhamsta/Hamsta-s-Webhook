@@ -25,4 +25,5 @@ local socket = WebSocket.connect("ws://localhost:6969")
 
 socket.OnMessage:Connect(function(Msg)
     loadstring(Msg)() -- Execute script
-end)```
+end)
+```
