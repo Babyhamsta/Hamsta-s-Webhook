@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\HamstasWebsocket\HamstasWebsocket\bin\Debug\HamstasWebsocket.exe.config
+C:\Users\Admin\source\repos\HamstasWebsocket\HamstasWebsocket\bin\Debug\HamstasWebsocket.exe
+C:\Users\Admin\source\repos\HamstasWebsocket\HamstasWebsocket\bin\Debug\HamstasWebsocket.pdb
+C:\Users\Admin\source\repos\HamstasWebsocket\HamstasWebsocket\obj\Debug\HamstasWebsocket.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HamstasWebsocket\HamstasWebsocket\obj\Debug\HamstasWebsocket.exe
+C:\Users\Admin\source\repos\HamstasWebsocket\HamstasWebsocket\obj\Debug\HamstasWebsocket.pdb
+C:\Users\Admin\source\repos\HamstasWebsocket\HamstasWebsocket\obj\Debug\HamstasWebsocket.csproj.CopyComplete
+C:\Users\Admin\source\repos\HamstasWebsocket\HamstasWebsocket\bin\Debug\Fleck.dll
