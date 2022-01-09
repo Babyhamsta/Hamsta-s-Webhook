@@ -87,7 +87,7 @@
                 newNode.innerHTML = 'Code ' + message + '!';
                 zNode.appendChild(newNode);
             }
-            setTimeout(() => $(zNode.childNodes[2]).fadeOut(500, function() { $(this).remove(); }), 500);
+            setTimeout(() => $(zNode.childNodes[3]).fadeOut(500, function() { $(this).remove(); }), 500);
         }
     }
 
